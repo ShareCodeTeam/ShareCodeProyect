@@ -1,0 +1,41 @@
+header{
+    background: cornflowerblue;
+    text-align: center;
+    padding: 30px;
+}
+
+section{
+    background: darkgray;
+    padding: 30px;
+    color: black;
+}
+
+footer{
+    background: cornflowerblue;
+    padding: 30px;
+}
+
+h1{
+    color: darkslateblue;
+}
+
+p{
+    text-align: justify;
+}
+
+nav {
+  width:30%;
+  float:right;
+}
+
+nav ul {
+  list-style-type:none;
+}
+
+nav li {
+  float:left;
+  margin-right:15px;
+ 
+}
+
+

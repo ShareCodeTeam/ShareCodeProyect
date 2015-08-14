@@ -23,19 +23,38 @@ p{
     text-align: justify;
 }
 
-nav {
-  width:30%;
-  float:right;
+/*Menu */
+.top_menu ul
+{
+    list-style:none;
+    float:left;
+    border-color: red;  
+    border-style: solid; 
+    padding: 2%;
+    width:95%;
 }
 
-nav ul {
-  list-style-type:none;
+.top_menu ul li
+{
+    float:left;
+    margin-right:20px;
+    margin-bottom:10px;
+    background: #ff812d;
+    padding:5px;
+    border-radius: 50%;
 }
 
-nav li {
-  float:left;
-  margin-right:15px;
- 
+.top_menu ul li a
+
+{
+    color: #FFFFFF;
+    text-decoration: none;
 }
+
+.top_menu ul li a:hover
+{
+    color: red;
+}
+
 
 
